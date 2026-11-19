@@ -6,7 +6,6 @@ Un piccolo progetto in Rust che calcola e visualizza l'insieme di Mandelbrot in 
   <img src="img/demo.gif" alt="Demo dell'applicazione" width="100%">
 </p>
 
-[Guarda il video in formato MP4](img/demo.mp4).
 
 ## Come funziona
 
