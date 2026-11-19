@@ -4,5 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+wgpu = "30"
 winit = "0.29"
-pixels = "0.15"
+bytemuck = { version = "1", features = ["derive"] }
+pollster = "0.4"
