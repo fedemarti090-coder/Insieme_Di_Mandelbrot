@@ -1,6 +1,6 @@
 # Insieme di Mandelbrot
 
-Un piccolo progetto in Rust che calcola e visualizza l'insieme di Mandelbrot in una finestra desktop.
+Un progetto in Rust che calcola e visualizza l'insieme di Mandelbrot in una finestra desktop.
 
 <p align="center">
   <img src="img/demo.gif" alt="Demo dell'applicazione" width="100%">
